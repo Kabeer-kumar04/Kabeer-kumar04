@@ -1,4 +1,4 @@
-👋 Hello! I'm Kabeer Kumar
+**👋 Hello! I'm Kabeer Kumar
 
 🎓 Data Science Enthusiast | 🎓 Pursuing a Master's Degree in Data Science
 
@@ -10,4 +10,4 @@
 
 🔍 Exploring the fascinating world of data science, machine learning, and AI, I'm excited to collaborate, learn, and contribute to the tech community.
 
-📚 Let's connect, share knowledge, and embark on this data-driven adventure together!
+📚 Let's connect, share knowledge, and embark on this data-driven adventure together!**
